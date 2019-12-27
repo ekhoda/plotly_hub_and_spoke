@@ -1,0 +1,56 @@
+ID,OriginCity,OriginState,OriginCountry,OriginLat,OriginLong,DestinationCity,DestinationState,DestinationCountry,DestinationLat,DestinationLong
+1,Munich,,Germany,48.15,11.583333,Lisbon,,Portugal,38.716667,-9.133333
+2,Munich,,Germany,48.15,11.583333,Picotos,,Portugal,41.192402,-8.619816
+3,Munich,,Germany,48.15,11.583333,Berlin,,Germany,52.516667,13.4
+4,Munich,,Germany,48.15,11.583333,Hamburg,,Germany,53.575323,10.01534
+5,Munich,,Germany,48.15,11.583333,Cologne,,Germany,50.933333,6.95
+6,Munich,,Germany,48.15,11.583333,Cologne,,Germany,50.933333,6.95
+7,Munich,,Germany,48.15,11.583333,Frankfurt,,Germany,50.11552,8.684167
+8,Munich,,Germany,48.15,11.583333,Stuttgart,,Germany,48.782343,9.180819
+9,Munich,,Germany,48.15,11.583333,Hannover,,Germany,52.38497,9.737141
+10,Munich,,Germany,48.15,11.583333,Copenhagen,,Denmark,55.666667,12.583333
+11,Munich,,Germany,48.15,11.583333,Aarhus,,Denmark,56.153423,10.22553
+12,Munich,,Germany,48.15,11.583333,Odense,,Denmark,55.393475,10.394935
+13,Munich,,Germany,48.15,11.583333,Skalborg,,Denmark,57.001634,9.887863
+14,Munich,,Germany,48.15,11.583333,Helsinki,,Finland,60.175556,24.934167
+15,Munich,,Germany,48.15,11.583333,Tampere,,Finland,61.5,23.75
+16,Munich,,Germany,48.15,11.583333,Turku,,Finland,60.45,22.283333
+17,Munich,,Germany,48.15,11.583333,Oulu,,Finland,65.016667,25.466667
+18,Paris,,France,48.866667,2.333333,Oulu,,Finland,65.016667,25.466667
+19,Paris,,France,48.866667,2.333333,Lyon,,France,45.748457,4.846711
+20,Paris,,France,48.866667,2.333333,Marseille,,France,43.285413,5.37606
+21,Paris,,France,48.866667,2.333333,Lille,,France,50.632971,3.058585
+22,Paris,,France,48.866667,2.333333,Nice,,France,43.713644,7.25952
+23,Paris,,France,48.866667,2.333333,Toulouse,,France,43.599516,1.433188
+24,Paris,,France,48.866667,2.333333,Montpellier,,France,43.61092,3.87723
+25,Paris,,France,48.866667,2.333333,Montpellier,,France,43.61092,3.87723
+26,Bordeaux,,France,44.840439,-0.5805,Montpellier,,France,43.61092,3.87723
+27,Bordeaux,,France,44.840439,-0.5805,London,,United Kingdom,51.514248,-0.093145
+28,Bordeaux,,France,44.840439,-0.5805,Birmingham,,United Kingdom,52.466667,-1.916667
+29,Bordeaux,,France,44.840439,-0.5805,Manchester,,United Kingdom,53.5,-2.216667
+30,Bordeaux,,France,44.840439,-0.5805,Leeds,,United Kingdom,53.8,-1.583333
+31,Bordeaux,,France,44.840439,-0.5805,Sheffield,,United Kingdom,53.366667,-1.5
+32,Bordeaux,,France,44.840439,-0.5805,Glasgow,,United Kingdom,55.833333,-4.25
+33,Bordeaux,,France,44.840439,-0.5805,Newcastle upon Tyne,,United Kingdom,54.988056,-1.619444
+34,Bordeaux,,France,44.840439,-0.5805,Nottingham,,United Kingdom,52.966667,-1.166667
+35,Bordeaux,,France,44.840439,-0.5805,Liverpool,,United Kingdom,53.416667,-3
+36,Bordeaux,,France,44.840439,-0.5805,Liverpool,,United Kingdom,53.416667,-3
+37,Bordeaux,,France,44.840439,-0.5805,Liverpool,,United Kingdom,53.416667,-3
+38,Amsterdam,,Netherlands,52.35,4.916667,Luxembourg,,Luxembourg,49.611667,6.13
+39,Amsterdam,,Netherlands,52.35,4.916667,Diekirch,,Luxembourg,49.867778,6.155833
+40,Amsterdam,,Netherlands,52.35,4.916667,The Hague,,Netherlands,52.083333,4.3
+41,Amsterdam,,Netherlands,52.35,4.916667,Eindhoven,,Netherlands,51.45,5.466667
+42,Amsterdam,,Netherlands,52.35,4.916667,Bergen,,Norway,60.391111,5.324722
+43,Amsterdam,,Netherlands,52.35,4.916667,Stavanger,,Norway,58.966667,5.75
+44,Amsterdam,,Netherlands,52.35,4.916667,Liverpool,,United Kingdom,53.416667,-3
+45,Amsterdam,,Netherlands,52.35,4.916667,Bergen,,Norway,60.391111,5.324722
+46,Oslo,,Norway,59.916667,10.75,Bergen,,Norway,60.391111,5.324722
+47,Oslo,,Norway,59.916667,10.75,Stavanger,,Norway,58.966667,5.75
+48,Oslo,,Norway,59.916667,10.75,Liverpool,,United Kingdom,53.416667,-3
+49,Oslo,,Norway,59.916667,10.75,Liverpool,,United Kingdom,53.416667,-3
+50,Oslo,,Norway,59.916667,10.75,Oulu,,Finland,65.016667,25.466667
+51,Oslo,,Norway,59.916667,10.75,Helsinki,,Finland,60.175556,24.934167
+52,Oslo,,Norway,59.916667,10.75,Tampere,,Finland,61.5,23.75
+53,Oslo,,Norway,59.916667,10.75,Oulu,,Finland,65.016667,25.466667
+54,Oslo,,Norway,59.916667,10.75,Helsinki,,Finland,60.175556,24.934167
+55,Oslo,,Norway,59.916667,10.75,Tampere,,Finland,61.5,23.75
